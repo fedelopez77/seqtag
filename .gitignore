@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+data
+ckpt
+out
+tensorboard
+job_script.sh
